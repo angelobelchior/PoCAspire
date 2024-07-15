@@ -1,0 +1,6 @@
+@PoCAspire.Products_HostAddress = http://localhost:5040
+
+GET {{PoCAspire.Products_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
